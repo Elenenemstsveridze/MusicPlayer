@@ -1,0 +1,34 @@
+﻿{
+    "songs": [
+        {
+            "name": "The Black Eyed Peas - Meet Me Halfway",
+            "url": "C:\\Users\\User\\source\\repos\\FinalExam\\FinalExam\\Resources\\The Black Eyed Peas - Meet Me Halfway (Lyrics).mp3",
+            "image": "C:\\Users\\User\\source\\repos\\FinalExam\\FinalExam\\Resources\\DefaultImage.jpg",
+            "playlists": [ "All Music", "My Favourites" ]
+        },
+        {
+            "name": "Kendrick Lamar - tv off",
+            "url": "C:\\Users\\User\\source\\repos\\FinalExam\\FinalExam\\Resources\\Kendrick Lamar - tv off (Lyrics).mp3",
+            "image": "C:\\Users\\User\\source\\repos\\FinalExam\\FinalExam\\Resources\\DefaultImage.jpg",
+            "playlists": [ "All Music", "My Favourites" ]
+        },
+        {
+            "name": "Ocean Alley-Confidence",
+            "url": "C:\\Users\\User\\source\\repos\\FinalExam\\FinalExam\\Resources\\Ocean Alley - Confidence (Lyrics).mp3",
+            "image": "https://i.pinimg.com/474x/05/c2/3e/05c23e9f023103682f72aa66e5182f8e.jpg",
+            "playlists": [ "All Music", "My Favourites" ]
+        },
+        {
+            "name": "Peach Pit-Alrighty Aphrodite",
+            "url": "C:\\Users\\User\\source\\repos\\FinalExam\\FinalExam\\Resources\\Peach Pit - Alrighty Aphrodite lyrics [Zx4Y5NoqsyU].mp3",
+            "image": "https://i.pinimg.com/474x/a7/7c/e7/a77ce7a330d58e8e6eab4ee042976e15.jpg",
+            "playlists": [ "All Music", "Calm Playlist" ]
+        },
+        {
+            "name": "Keep Your Old Friends",
+            "url": "C:\\Users\\User\\source\\repos\\FinalExam\\FinalExam\\Resources\\Claire Wright- Keep Your Old Friends [Official Audio].mp3",
+            "image": "https://i.pinimg.com/474x/f9/e1/d5/f9e1d55387a9dcd1e906e7f4ca75c519.jpg",
+            "playlists": [ "All Music", "Calm Playlist" ]
+        }
+    ]
+}
