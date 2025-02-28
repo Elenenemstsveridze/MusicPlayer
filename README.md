@@ -1,4 +1,5 @@
 MusicPlayer 🎵
+
 A C# Windows Forms Application for Music Playback.
 
 This is my first C# project, created during my first semester as part of a final exam. It is a Windows Forms application that allows users to sign up, log in, manage playlists, and play music from a locally stored collection.
